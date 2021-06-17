@@ -9,14 +9,10 @@ function App() {
         <div>
           <Nav />
 
-          <Route exact path={['/', '/home']} component={Home} />
-          <Route exact path="/bandprofile/" component={BandProfile} />
-          <Route path="/profile/:id" component={BandProfile} />
-          <Footer />
-          {/* <LeafMap /> */}
+          {/* <Route exact path={['/', '/home']} component={Home} /> */}
+          {/* <Footer /> */}
         </div>
       </Router>
-      <h1>Lyn's Plants!</h1>
     </div>
   );
 }
