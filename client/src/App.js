@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import Nav from './components/Nav';
+import Home from './pages/Home';
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
         <div>
           <Nav />
 
-          {/* <Route exact path={['/', '/home']} component={Home} /> */}
+          <Route exact path={['/', '/home']} component={Home} />
           {/* <Footer /> */}
         </div>
       </Router>
