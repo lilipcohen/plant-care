@@ -9,7 +9,7 @@ export default function Nav() {
         <ul id="ul-one">
           <li>
             <a id="home-nav" href="/">
-              Lyn's Plants
+              LYN'S PLANTS
             </a>
           </li>
         </ul>

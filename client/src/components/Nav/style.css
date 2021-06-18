@@ -16,7 +16,7 @@
 }
 
 li a:hover {
-  background-color: rgb(82, 138, 187);
+  color: gray;
 }
 
 #list-nav {
