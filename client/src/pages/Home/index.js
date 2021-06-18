@@ -1,6 +1,15 @@
 import React from 'react';
 import './style.css';
+import CatImg from '../../images/cat-plant-home.png';
 
 export default function Home() {
-  return <h2>cats are friends are friends</h2>;
+  return (
+    <div>
+      <br></br>
+      <br></br>
+      <br></br>
+      <img id="home-img" src={CatImg}></img>
+      <div id="pink-box"></div>
+    </div>
+  );
 }
