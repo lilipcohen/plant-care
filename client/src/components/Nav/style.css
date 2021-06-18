@@ -14,6 +14,9 @@
   padding: 1px;
   overflow: hidden;
 }
+li a {
+  color: black;
+}
 
 li a:hover {
   color: gray;
