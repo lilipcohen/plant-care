@@ -1,3 +1,6 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
 #home-img {
   position: absolute;
   max-width: 50%;
@@ -19,11 +22,17 @@
 #yellow-circle {
   position: absolute;
   margin-left: -120px;
-  margin-top: -200px;
-  width: 400px;
-  height: 400px;
+  margin-top: -160px;
+  width: 380px;
+  height: 380px;
   border-radius: 50%;
   opacity: 0.6;
   background-color: rgb(246, 248, 118);
   z-index: 5;
+}
+
+#home-plants {
+  padding: 0px;
+  max-width: 70%;
+  max-height: 40%;
 }
