@@ -74,7 +74,11 @@ export default function Home() {
         </div>
       </div>
       <div>
-        <button>View All</button>
+        <div className="row">
+          <button className="col s12" id="button-home">
+            View All
+          </button>
+        </div>
       </div>
     </div>
   );

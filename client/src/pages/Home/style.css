@@ -41,3 +41,15 @@
 .plant-background {
   background-color: rgb(209, 253, 209);
 }
+
+#button-home {
+  max-width: 90px;
+  max-height: 100px;
+  min-height: 50px;
+  background-color: rgb(248, 0, 0);
+  opacity: 0.8;
+  color: white;
+  border: none;
+  margin: auto;
+  cursor: pointer;
+}
