@@ -32,7 +32,12 @@
 }
 
 #home-plants {
-  padding: 0px;
+  padding-bottom: 10px;
   max-width: 70%;
   max-height: 40%;
+  overflow: wrap;
+}
+
+.plant-background {
+  background-color: rgb(209, 253, 209);
 }

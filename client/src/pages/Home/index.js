@@ -45,6 +45,37 @@ export default function Home() {
           <img id="home-plants" src={PothosImg}></img>
         </div>
       </div>
+      <div className="row">
+        <div className="col s3">
+          <img id="home-plants" src={PothosImg}></img>
+        </div>
+        <div className="col s3">
+          <img id="home-plants" src={PothosImg}></img>
+        </div>
+        <div className="col s3">
+          <img id="home-plants" src={PothosImg}></img>
+        </div>
+        <div className="col s3">
+          <img id="home-plants" src={PothosImg}></img>
+        </div>
+      </div>
+      <div className="row ">
+        <div className="col s3">
+          <img id="home-plants" src={PothosImg}></img>
+        </div>
+        <div className="col s3">
+          <img id="home-plants" src={PothosImg}></img>
+        </div>
+        <div className="col s3">
+          <img id="home-plants" src={PothosImg}></img>
+        </div>
+        <div className="col s3">
+          <img id="home-plants" src={PothosImg}></img>
+        </div>
+      </div>
+      <div>
+        <p>View All</p>
+      </div>
     </div>
   );
 }
