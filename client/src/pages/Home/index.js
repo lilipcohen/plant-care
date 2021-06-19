@@ -74,7 +74,7 @@ export default function Home() {
         </div>
       </div>
       <div>
-        <p>View All</p>
+        <button>View All</button>
       </div>
     </div>
   );
