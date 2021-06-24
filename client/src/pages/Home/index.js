@@ -2,6 +2,7 @@ import React from 'react';
 import './style.css';
 import CatImg from '../../images/cat-plant-home.png';
 import PothosImg from '../../images/pothos-njoy.png';
+import PlantCareImg from '../../images/plant-care.jpg';
 
 export default function Home() {
   return (
@@ -73,11 +74,36 @@ export default function Home() {
           <img id="home-plants" src={PothosImg}></img>
         </div>
       </div>
-      <div>
-        <div className="row">
-          <button className="col s12" id="button-home">
-            View All
-          </button>
+
+      <div className="row">
+        <button className="col s12" id="button-home">
+          View All
+        </button>
+      </div>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <div className="row">
+        <div className="col s6">
+          <img id="plant-care-img" src={PlantCareImg}></img>
+        </div>
+        <div className="col s6">
+          <h3>Plant Care Help</h3>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat. Duis aute irure dolor in
+            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+            culpa qui officia deserunt mollit anim id est laborum.
+          </p>
         </div>
       </div>
     </div>
