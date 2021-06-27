@@ -24,16 +24,16 @@ export default function Home() {
             <a href="#">Home</a>
           </li>
           <li className="col s2">
-            <a href="#">Services</a>
+            <a href="#">Shop</a>
+          </li>
+          <li className="col s2">
+            <a href="#">Resources</a>
           </li>
           <li className="col s2">
             <a href="#">About</a>
           </li>
           <li className="col s2">
-            <a href="#">Terms</a>
-          </li>
-          <li className="col s2">
-            <a href="#">Privacy Policy</a>
+            <a href="#">Contact Us</a>
           </li>
         </ul>
         <div className="row">
