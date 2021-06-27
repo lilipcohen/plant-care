@@ -36,7 +36,11 @@ export default function Home() {
             <a href="#">Privacy Policy</a>
           </li>
         </ul>
-        <p className="copyright">Lyn's Plants © 2021</p>
+        <div className="row">
+          <div className="col s12">
+            <p className="copyright">Lyn's Plants © 2021</p>
+          </div>
+        </div>
       </footer>
     </div>
   );
