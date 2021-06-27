@@ -19,20 +19,20 @@ export default function Home() {
             <i className="icon ion-social-facebook"></i>
           </a>
         </div>
-        <ul className="list-inline">
-          <li className="list-inline-item">
+        <ul className="row">
+          <li className="col s2">
             <a href="#">Home</a>
           </li>
-          <li className="list-inline-item">
+          <li className="col s2">
             <a href="#">Services</a>
           </li>
-          <li className="list-inline-item">
+          <li className="col s2">
             <a href="#">About</a>
           </li>
-          <li className="list-inline-item">
+          <li className="col s2">
             <a href="#">Terms</a>
           </li>
-          <li className="list-inline-item">
+          <li className="col s2">
             <a href="#">Privacy Policy</a>
           </li>
         </ul>
