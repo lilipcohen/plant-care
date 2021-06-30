@@ -7,16 +7,13 @@ export default function Home() {
       <footer>
         <div className="social">
           <a href="#">
-            <i className="icon ion-social-instagram"></i>
+            <img className="icon ion-social-instagram"></img>
           </a>
           <a href="#">
-            <i className="icon ion-social-snapchat"></i>
+            <img className="icon ion-social-snapchat"></img>
           </a>
           <a href="#">
-            <i className="icon ion-social-twitter"></i>
-          </a>
-          <a href="#">
-            <i className="icon ion-social-facebook"></i>
+            <img className="icon ion-social-twitter"></img>
           </a>
         </div>
         <ul>
