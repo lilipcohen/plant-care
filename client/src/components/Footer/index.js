@@ -13,10 +13,10 @@ export default function Home() {
             <img src={facebookIcon}></img>
           </a>
           <a href="#">
-            <img src={facebookIcon}></img>
+            <img src={twitterIcon}></img>
           </a>
           <a href="#">
-            <img src={facebookIcon}></img>
+            <img src={instaIcon}></img>
           </a>
         </div>
         <ul>
