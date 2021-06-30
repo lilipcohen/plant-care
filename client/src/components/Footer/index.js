@@ -1,5 +1,8 @@
 import React from 'react';
 import './style.css';
+import facebookIcon from '../../images/icon-face.png';
+import twitterIcon from '../../images/icon-twitter.png';
+import instaIcon from '../../images/icon-insta.png';
 
 export default function Home() {
   return (
@@ -7,13 +10,13 @@ export default function Home() {
       <footer>
         <div className="social">
           <a href="#">
-            <img className="icon ion-social-instagram"></img>
+            <img src={facebookIcon}></img>
           </a>
           <a href="#">
-            <img className="icon ion-social-snapchat"></img>
+            <img src={facebookIcon}></img>
           </a>
           <a href="#">
-            <img className="icon ion-social-twitter"></img>
+            <img src={facebookIcon}></img>
           </a>
         </div>
         <ul>
