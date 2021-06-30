@@ -10,13 +10,13 @@ export default function Home() {
       <footer>
         <div className="social">
           <a href="#">
-            <img src={facebookIcon}></img>
+            <img className="icon" src={facebookIcon}></img>
           </a>
           <a href="#">
-            <img src={twitterIcon}></img>
+            <img className="icon" src={twitterIcon}></img>
           </a>
           <a href="#">
-            <img src={instaIcon}></img>
+            <img className="icon" src={instaIcon}></img>
           </a>
         </div>
         <ul>
