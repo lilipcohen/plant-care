@@ -17,16 +17,16 @@ export default function Nav() {
       <div>
         <ul id="ul-two">
           <li id="list-nav">
-            <a>Shop at Lyn's</a>
+            <a href="/shop">Shop at Lyn's</a>
           </li>
           <li id="list-nav">
-            <a>Plant Care</a>
+            <a href="/plantcare">Plant Care</a>
           </li>
           <li id="list-nav">
-            <a>What We Do</a>
+            <a href="/about">What We Do</a>
           </li>
           <li id="list-nav">
-            <a>Contact Us</a>
+            <a href="/contact">Contact Us</a>
           </li>
         </ul>
       </div>
