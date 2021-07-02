@@ -21,7 +21,7 @@ export default function Home() {
         </div>
         <ul>
           <li className="col s12">
-            <a href="#">Home</a>
+            <a href="/">Home</a>
           </li>
           <li className="col s12">
             <a href="#">Shop</a>
