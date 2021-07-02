@@ -77,7 +77,9 @@ export default function Home() {
 
       <div className="row">
         <button className="col s12" id="button-home">
-          View All
+          <a id="anchor" href="shop">
+            View All
+          </a>
         </button>
       </div>
       <br></br>

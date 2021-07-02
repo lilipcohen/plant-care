@@ -49,11 +49,14 @@
   min-height: 50px;
   background-color: rgb(248, 0, 0);
   opacity: 0.8;
-  color: white;
   border: none;
   text-align: center;
   margin-left: 45%;
   cursor: pointer;
+}
+
+#anchor {
+  color: white;
 }
 
 #plant-care-img {
