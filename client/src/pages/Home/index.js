@@ -77,7 +77,7 @@ export default function Home() {
 
       <div className="row">
         <button className="col s12" id="button-home">
-          <a id="anchor" href="shop">
+          <a id="anchor" href="/shop">
             View All
           </a>
         </button>
@@ -106,6 +106,11 @@ export default function Home() {
             pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
             culpa qui officia deserunt mollit anim id est laborum.
           </p>
+          <button id="button-home">
+            <a id="anchor" href="/plantcare">
+              View All
+            </a>
+          </button>
         </div>
       </div>
     </div>
